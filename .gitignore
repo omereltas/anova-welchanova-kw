@@ -1,3 +1,4 @@
 "results/*.rds" 
 ".Rhistory" 
 ".RData" 
+.Rproj.user
