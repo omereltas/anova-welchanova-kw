@@ -1,0 +1,3 @@
+"n","k","balance","dist","var_type","attempts_total","accepted","complete","acceptance_rate","eta_min","eta_mean","eta_max","power_anova","power_welch","power_kw","welch_fail_rate"
+10,8,"balanced","negbin","heterogeneous",5967911,10000,TRUE,0.00167562820558148,0.280044973368524,0.304768569315751,0.367454399932601,1,0.7907,0.9102,0
+10,8,"unbalanced","negbin","heterogeneous",5850036,10000,TRUE,0.00170939119007131,0.28004565702974,0.304195303183062,0.367466561085195,1,0.7863,0.9099,0
